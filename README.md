@@ -1,0 +1,2 @@
+# ChatGPT
+focusing on prompts
